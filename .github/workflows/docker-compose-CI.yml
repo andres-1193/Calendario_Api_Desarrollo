@@ -34,8 +34,7 @@ jobs:
         password: ${{ secrets.DOCKER_ACCESS_TOKEN }}
 
     - name: Build and push Docker images
-      run: |
-        docker-compose -f docker-compose.yml build
+      run: docker-compose -f docker-compose.yml build
         docker-compose -f docker-compose.yml push
 
     - name: Run Docker Compose
