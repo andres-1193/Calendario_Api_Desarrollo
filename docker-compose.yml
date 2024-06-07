@@ -22,7 +22,7 @@ services:
   mongodb:
     image: mongo:latest           
     ports:
-      - "2701:27017"
+      - "27018:27017"
     networks:
       - redcalendario
     volumes:
