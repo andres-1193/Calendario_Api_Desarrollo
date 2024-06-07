@@ -1,0 +1,75 @@
+version: '3.8'
+#Express: Este servicio probablemente corresponde a una aplicación backend desarrollada 
+#en Express.js. Aquí se define cómo construir la imagen del contenedor (build), los puertos
+ #que expone (ports), la red a la que pertenece (networks), las dependencias (depends_on), 
+# y las variables de entorno (environment). Esta aplicación depende de un servicio de 
+services:
+  express:
+    build: 
+      context: ./Api_Fechas # Ruta al directorio de contexto para el Dockerfile de Express
+      dockerfile: Dockerfile-express # Nombre del Dockerfile para Express
+    ports:
+      - "4040:3030"
+    networks:
+      - redcalendario
+    depends_on:
+      - mongodb
+    environment:
+      - MONGO_URI=mongodb://mongodb:27017/festivos
+#MongoDB: Este servicio utiliza la imagen oficial de MongoDB. Se define la exposición 
+#de puertos, la red, y los volúmenes donde se almacenan los datos de la base de datos.
+
+  mongodb:
+    image: mongo:latest           
+    ports:
+      - "2701:27017"
+    networks:
+      - redcalendario
+    volumes:
+      - ./Api_Fechas/mongo-init:/docker-entrypoint-initdb.d
+      
+ # Spring Boot: Este servicio probablemente corresponde a una aplicación backend 
+ #desarrollada en Spring Boot. Se define similar al servicio de Express, con construcción 
+ #de imagen, puertos, red, dependencias (en este caso, un servicio de PostgreSQL y el 
+ #servicio Express), y variables de entorno que incluyen la URL de la base de datos y 
+ #la URL del servicio Express
+
+  springboot:
+    build: 
+      context: ./Api_Dias_Laborales 
+      dockerfile: Dockerfile-springboot 
+    ports:
+      - "7171:8080"
+    networks:
+      - redcalendario 
+    depends_on:
+      - postgres
+      - express
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/calendariolaboral
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: abc123456
+      EXPRESS_SERVICE_URL: http://express:3030
+# este bloque de código define un servicio de contenedor de PostgreSQL, configurando la construcción del contenedor, 
+#el mapeo de puertos, la red, y las variables de entorno necesarias para la configuración y ejecución del contenedor 
+#PostgreSQL.
+
+  postgres:
+    build: 
+      context: ./Api_Dias_Laborales # Ruta al directorio de contexto para el Dockerfile de PostgreSQL
+      dockerfile: Dockerfile-postgres # Nombre del Dockerfile para PostgreSQL
+    ports:
+      - "5151:5432"
+    networks:
+      - redcalendario
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: abc123456
+      POSTGRES_DB: calendariolaboral
+#Networks: Define una red personalizada llamada redcalendario con el controlador de puente (bridge). 
+#Esta red se utiliza para conectar los contenedores y permite la comunicación entre ellos.
+#networks:
+
+networks:
+  redcalendario:
+    driver: bridge
