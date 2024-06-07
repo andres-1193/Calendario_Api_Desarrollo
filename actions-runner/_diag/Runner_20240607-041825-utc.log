@@ -1,0 +1,194 @@
+[2024-06-07 04:18:25Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:25Z INFO HostContext] Well known config file 'Credentials': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials'
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:25Z INFO HostContext] Well known config file 'Runner': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.runner'
+[2024-06-07 04:18:25Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-06-07 04:18:25Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-06-07 04:18:25Z INFO Listener] Version: 2.294.0
+[2024-06-07 04:18:25Z INFO Listener] Commit: 709bd6113d2fca3a89a0fef11913ce4efd7b8cc5
+[2024-06-07 04:18:25Z INFO Listener] Culture: es-CO
+[2024-06-07 04:18:25Z INFO Listener] UI Culture: es-ES
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:25Z INFO Listener] Validating directory permissions for: 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:25Z INFO CommandLineParser] Parse
+[2024-06-07 04:18:25Z INFO CommandLineParser] Parsing 5 args
+[2024-06-07 04:18:25Z INFO CommandLineParser] parsing argument
+[2024-06-07 04:18:25Z INFO CommandLineParser] HasArgs: False
+[2024-06-07 04:18:25Z INFO CommandLineParser] Adding Command: configure
+[2024-06-07 04:18:25Z INFO CommandLineParser] parsing argument
+[2024-06-07 04:18:25Z INFO CommandLineParser] HasArgs: True
+[2024-06-07 04:18:25Z INFO CommandLineParser] arg: url
+[2024-06-07 04:18:25Z INFO CommandLineParser] parsing argument
+[2024-06-07 04:18:25Z INFO CommandLineParser] HasArgs: True
+[2024-06-07 04:18:25Z INFO CommandLineParser] Adding option 'url': 'https://github.com/andres-1193/Calendario_Api_Desarrollo'
+[2024-06-07 04:18:25Z INFO CommandLineParser] parsing argument
+[2024-06-07 04:18:25Z INFO CommandLineParser] HasArgs: True
+[2024-06-07 04:18:25Z INFO CommandLineParser] arg: token
+[2024-06-07 04:18:25Z INFO CommandLineParser] parsing argument
+[2024-06-07 04:18:25Z INFO CommandLineParser] HasArgs: True
+[2024-06-07 04:18:25Z INFO CommandLineParser] Adding option 'token': '***'
+[2024-06-07 04:18:25Z INFO Listener] Arguments parsed
+[2024-06-07 04:18:25Z INFO Runner] ExecuteCommand
+[2024-06-07 04:18:25Z INFO ConfigurationStore] currentAssemblyLocation: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin\Runner.Listener.dll
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:25Z INFO ConfigurationStore] binPath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:25Z INFO ConfigurationStore] RootFolder: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:25Z INFO HostContext] Well known config file 'Runner': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.runner'
+[2024-06-07 04:18:25Z INFO ConfigurationStore] ConfigFilePath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.runner
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:25Z INFO HostContext] Well known config file 'Credentials': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials'
+[2024-06-07 04:18:25Z INFO ConfigurationStore] CredFilePath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:25Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_migrated'
+[2024-06-07 04:18:25Z INFO ConfigurationStore] MigratedCredFilePath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_migrated
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:25Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:25Z INFO HostContext] Well known config file 'Service': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.service'
+[2024-06-07 04:18:25Z INFO ConfigurationStore] ServiceConfigFilePath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.service
+[2024-06-07 04:18:25Z INFO CommandSettings] Flag 'help': 'False'
+[2024-06-07 04:18:25Z INFO CommandSettings] Flag 'version': 'False'
+[2024-06-07 04:18:25Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-06-07 04:18:25Z INFO CommandSettings] Flag 'check': 'False'
+[2024-06-07 04:18:25Z INFO CommandSettings] Command 'configure': 'True'
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: 
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: |                                                                              |
+[2024-06-07 04:18:25Z INFO Terminal] WRITE: |                       
+[2024-06-07 04:18:25Z INFO Terminal] WRITE: Self-hosted runner registration
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE:                         |
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: |                                                                              |
+[2024-06-07 04:18:25Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2024-06-07 04:18:25Z INFO ConfigurationManager] ConfigureAsync
+[2024-06-07 04:18:25Z INFO ConfigurationStore] IsConfigured()
+[2024-06-07 04:18:25Z INFO ConfigurationStore] IsConfigured: False
+[2024-06-07 04:18:25Z INFO ConfigurationManager] Is configured: False
+[2024-06-07 04:18:25Z INFO CommandSettings] Arg 'url': 'https://github.com/andres-1193/Calendario_Api_Desarrollo'
+[2024-06-07 04:18:25Z INFO CommandSettings] Remove url from Arg dictionary.
+[2024-06-07 04:18:25Z INFO CommandSettings] Arg 'token': '***'
+[2024-06-07 04:18:25Z INFO CommandSettings] Remove token from Arg dictionary.
+[2024-06-07 04:18:27Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2024-06-07 04:18:27Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2024-06-07 04:18:27Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-06-07 04:18:27Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-06-07 04:18:27Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-06-07 04:18:27Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-06-07 04:18:27Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-06-07 04:18:27Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-06-07 04:18:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-06-07 04:18:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-06-07 04:18:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-06-07 04:18:29Z INFO Terminal] WRITE LINE: 
+[2024-06-07 04:18:29Z INFO ConfigurationManager] Test Connection complete.
+[2024-06-07 04:18:29Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:18:29Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:18:29Z INFO HostContext] Well known config file 'RSACredentials': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_rsaparams'
+[2024-06-07 04:18:29Z INFO RSAEncryptedFileKeyManager] Creating new RSA key using 2048-bit key length
+[2024-06-07 04:18:29Z INFO RSAEncryptedFileKeyManager] Successfully saved RSA key parameters to file D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_rsaparams
+[2024-06-07 04:18:29Z INFO CommandSettings] Arg 'runnergroup': ''
+[2024-06-07 04:18:29Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-06-07 04:18:29Z INFO PromptManager] ReadValue
+[2024-06-07 04:18:29Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2024-06-07 04:18:29Z INFO Terminal] WRITE: [press Enter for Default] 
+[2024-06-07 04:18:29Z INFO Terminal] READ LINE
+[2024-06-07 04:18:57Z INFO Terminal] Read value: ''
+[2024-06-07 04:18:57Z INFO PromptManager] Falling back to the default: 'Default'
+[2024-06-07 04:18:57Z INFO Terminal] WRITE LINE: 
+[2024-06-07 04:18:57Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2024-06-07 04:18:57Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2024-06-07 04:18:57Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2024-06-07 04:18:57Z INFO CommandSettings] Arg 'name': ''
+[2024-06-07 04:18:57Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-06-07 04:18:57Z INFO PromptManager] ReadValue
+[2024-06-07 04:18:57Z INFO Terminal] WRITE: Enter the name of runner: 
+[2024-06-07 04:18:57Z INFO Terminal] WRITE: [press Enter for LAPTOP-TM6L92CU] 
+[2024-06-07 04:18:57Z INFO Terminal] READ LINE
+[2024-06-07 04:19:11Z INFO Terminal] Read value: ''
+[2024-06-07 04:19:11Z INFO PromptManager] Falling back to the default: 'LAPTOP-TM6L92CU'
+[2024-06-07 04:19:11Z INFO Terminal] WRITE LINE: 
+[2024-06-07 04:19:11Z INFO CommandSettings] Arg 'labels': ''
+[2024-06-07 04:19:11Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-06-07 04:19:11Z INFO PromptManager] ReadValue
+[2024-06-07 04:19:11Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Windows', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2024-06-07 04:19:11Z INFO Terminal] WRITE: [press Enter to skip] 
+[2024-06-07 04:19:11Z INFO Terminal] READ LINE
+[2024-06-07 04:19:47Z INFO Terminal] Read value: ''
+[2024-06-07 04:19:47Z INFO Terminal] WRITE LINE: 
+[2024-06-07 04:19:47Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2024-06-07 04:19:47Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2024-06-07 04:19:47Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2024-06-07 04:19:47Z INFO ConfigurationStore] Saving OAuth credential @ D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials
+[2024-06-07 04:19:47Z INFO ConfigurationStore] Credentials Saved.
+[2024-06-07 04:19:47Z INFO ConfigurationStore] HasCredentials()
+[2024-06-07 04:19:47Z INFO ConfigurationStore] stored True
+[2024-06-07 04:19:47Z INFO CredentialManager] GetCredentialProvider
+[2024-06-07 04:19:47Z INFO CredentialManager] Creating type OAuth
+[2024-06-07 04:19:47Z INFO CredentialManager] Creating credential type: OAuth
+[2024-06-07 04:19:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_rsaparams
+[2024-06-07 04:19:47Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-06-07 04:19:47Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-06-07 04:19:48Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-06-07 04:19:48Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-06-07 04:19:48Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-06-07 04:19:48Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-06-07 04:19:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-06-07 04:19:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-06-07 04:19:49Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-06-07 04:19:49Z WARN GitHubActionsService] Authentication failed with status code 401.
+Date: Fri, 07 Jun 2024 04:19:49 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: ff17920c-93a1-460a-98d4-9042cd55a1a2
+ActivityId: 37a5fb1e-af1a-4660-9a8b-d927ea62e0af
+X-TFS-Session: 160a237e-d8d7-4bb0-a978-8e80d6d0e244
+X-VSS-E2EID: b496bec4-935b-498d-bd80-345a88bbcf68
+X-VSS-SenderDeploymentId: fc1cfc90-fc40-edcb-6d0f-3b1380ee7b68
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+
+[2024-06-07 04:19:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_rsaparams
+[2024-06-07 04:19:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_rsaparams
+[2024-06-07 04:19:49Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-06-07 04:19:50Z INFO CommandSettings] Arg 'work': ''
+[2024-06-07 04:19:50Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-06-07 04:19:50Z INFO PromptManager] ReadValue
+[2024-06-07 04:19:50Z INFO Terminal] WRITE: Enter name of work folder: 
+[2024-06-07 04:19:50Z INFO Terminal] WRITE: [press Enter for _work] 
+[2024-06-07 04:19:50Z INFO Terminal] READ LINE
+[2024-06-07 04:21:38Z INFO Terminal] Read value: 'Calendario_Api_Desarrollo'
+[2024-06-07 04:21:38Z INFO ConfigurationStore] Saving runner settings.
+[2024-06-07 04:21:38Z INFO ConfigurationStore] Settings Saved.
+[2024-06-07 04:21:38Z INFO Terminal] WRITE LINE: 
+[2024-06-07 04:21:38Z INFO Terminal] WRITE LINE: 
+[2024-06-07 04:21:38Z INFO CommandSettings] Flag 'runasservice': 'False'
+[2024-06-07 04:21:38Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-06-07 04:21:38Z INFO PromptManager] ReadValue
+[2024-06-07 04:21:38Z INFO Terminal] WRITE: Would you like to run the runner as service? (Y/N) 
+[2024-06-07 04:21:38Z INFO Terminal] WRITE: [press Enter for N] 
+[2024-06-07 04:21:38Z INFO Terminal] READ LINE
+[2024-06-07 04:22:12Z INFO Terminal] Read value: 'y'
+[2024-06-07 04:22:12Z INFO ConfigurationManager] Configuring to run the agent as service
+[2024-06-07 04:22:12Z ERR  WindowsServiceControlManager] Needs Administrator privileges for configure runner as windows service.
+[2024-06-07 04:22:13Z ERR  Runner] System.Security.SecurityException: Needs Administrator privileges for configuring runner as windows service.
+   at GitHub.Runner.Listener.Configuration.WindowsServiceControlManager.ConfigureService(RunnerSettings settings, CommandSettings command)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2024-06-07 04:22:13Z ERR  Terminal] WRITE ERROR: Needs Administrator privileges for configuring runner as windows service.
+[2024-06-07 04:22:13Z INFO Listener] Runner execution has finished with return code 1

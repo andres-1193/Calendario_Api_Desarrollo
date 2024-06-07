@@ -1,0 +1,281 @@
+[2024-06-07 04:22:49Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO HostContext] Well known config file 'Credentials': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO HostContext] Well known config file 'Runner': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.runner'
+[2024-06-07 04:22:49Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-06-07 04:22:49Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-06-07 04:22:49Z INFO Listener] Version: 2.294.0
+[2024-06-07 04:22:49Z INFO Listener] Commit: 709bd6113d2fca3a89a0fef11913ce4efd7b8cc5
+[2024-06-07 04:22:49Z INFO Listener] Culture: es-CO
+[2024-06-07 04:22:49Z INFO Listener] UI Culture: es-ES
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO Listener] Validating directory permissions for: 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO CommandLineParser] Parse
+[2024-06-07 04:22:49Z INFO CommandLineParser] Parsing 1 args
+[2024-06-07 04:22:49Z INFO CommandLineParser] parsing argument
+[2024-06-07 04:22:49Z INFO CommandLineParser] HasArgs: False
+[2024-06-07 04:22:49Z INFO CommandLineParser] Adding Command: run
+[2024-06-07 04:22:49Z INFO Listener] Arguments parsed
+[2024-06-07 04:22:49Z INFO Runner] ExecuteCommand
+[2024-06-07 04:22:49Z INFO ConfigurationStore] currentAssemblyLocation: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin\Runner.Listener.dll
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO ConfigurationStore] binPath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO ConfigurationStore] RootFolder: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO HostContext] Well known config file 'Runner': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.runner'
+[2024-06-07 04:22:49Z INFO ConfigurationStore] ConfigFilePath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.runner
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO HostContext] Well known config file 'Credentials': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials'
+[2024-06-07 04:22:49Z INFO ConfigurationStore] CredFilePath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_migrated'
+[2024-06-07 04:22:49Z INFO ConfigurationStore] MigratedCredFilePath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_migrated
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO HostContext] Well known config file 'Service': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.service'
+[2024-06-07 04:22:49Z INFO ConfigurationStore] ServiceConfigFilePath: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.service
+[2024-06-07 04:22:49Z INFO CommandSettings] Flag 'help': 'False'
+[2024-06-07 04:22:49Z INFO CommandSettings] Flag 'version': 'False'
+[2024-06-07 04:22:49Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-06-07 04:22:49Z INFO CommandSettings] Flag 'check': 'False'
+[2024-06-07 04:22:49Z INFO CommandSettings] Command 'configure': 'False'
+[2024-06-07 04:22:49Z INFO CommandSettings] Command 'remove': 'False'
+[2024-06-07 04:22:49Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-06-07 04:22:49Z INFO ConfigurationManager] LoadSettings
+[2024-06-07 04:22:49Z INFO ConfigurationStore] IsConfigured()
+[2024-06-07 04:22:49Z INFO ConfigurationStore] IsConfigured: True
+[2024-06-07 04:22:49Z INFO ConfigurationManager] Is configured: True
+[2024-06-07 04:22:49Z INFO ConfigurationStore] Read setting file: 346 chars
+[2024-06-07 04:22:49Z INFO ConfigurationManager] Settings Loaded
+[2024-06-07 04:22:49Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-06-07 04:22:49Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-06-07 04:22:49Z INFO CommandSettings] Command 'run': 'True'
+[2024-06-07 04:22:49Z INFO ConfigurationStore] IsConfigured()
+[2024-06-07 04:22:49Z INFO ConfigurationStore] IsConfigured: True
+[2024-06-07 04:22:49Z INFO ConfigurationManager] Is configured: True
+[2024-06-07 04:22:49Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2024-06-07 04:22:49Z INFO Runner] Set runner startup type - Manual
+[2024-06-07 04:22:49Z INFO CommandSettings] Flag 'once': 'False'
+[2024-06-07 04:22:49Z INFO CommandSettings] Flag 'once': 'False'
+[2024-06-07 04:22:49Z INFO Runner] RunAsync
+[2024-06-07 04:22:49Z INFO ConfigurationManager] LoadSettings
+[2024-06-07 04:22:49Z INFO ConfigurationStore] IsConfigured()
+[2024-06-07 04:22:49Z INFO ConfigurationStore] IsConfigured: True
+[2024-06-07 04:22:49Z INFO ConfigurationManager] Is configured: True
+[2024-06-07 04:22:49Z INFO ConfigurationManager] Settings Loaded
+[2024-06-07 04:22:49Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "LAPTOP-TM6L92CU",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/FXHz7qQQWKZm0cUnal2epXYLKsGnCgESa6VA91t73aTSqlri0X/",
+  "GitHubUrl": "https://github.com/andres-1193/Calendario_Api_Desarrollo",
+  "WorkFolder": "Calendario_Api_Desarrollo"
+}
+[2024-06-07 04:22:49Z INFO MessageListener] Loading Credentials
+[2024-06-07 04:22:49Z INFO ConfigurationStore] HasCredentials()
+[2024-06-07 04:22:49Z INFO ConfigurationStore] stored True
+[2024-06-07 04:22:49Z INFO CredentialManager] GetCredentialProvider
+[2024-06-07 04:22:49Z INFO CredentialManager] Creating type OAuth
+[2024-06-07 04:22:49Z INFO CredentialManager] Creating credential type: OAuth
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:49Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:49Z INFO HostContext] Well known config file 'RSACredentials': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_rsaparams'
+[2024-06-07 04:22:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_rsaparams
+[2024-06-07 04:22:49Z INFO MessageListener] Attempt to create session.
+[2024-06-07 04:22:49Z INFO MessageListener] Connecting to the Runner Server...
+[2024-06-07 04:22:49Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-06-07 04:22:49Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-06-07 04:22:49Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-06-07 04:22:49Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-06-07 04:22:49Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-06-07 04:22:49Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-06-07 04:22:50Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-06-07 04:22:50Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-06-07 04:22:50Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-06-07 04:22:50Z INFO MessageListener] VssConnection created
+[2024-06-07 04:22:50Z INFO Terminal] WRITE LINE: 
+[2024-06-07 04:22:50Z INFO Terminal] WRITE LINE: 
+[2024-06-07 04:22:50Z WARN GitHubActionsService] Authentication failed with status code 401.
+Date: Fri, 07 Jun 2024 04:22:50 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: dab45406-beff-4d9f-a8f6-400b8e291306
+ActivityId: 3bbdec1d-d0cd-40a8-be6b-e77a6899487a
+X-TFS-Session: 2a0c8916-4954-42cb-a372-e8925062d3c6
+X-VSS-E2EID: 74848379-4aac-45eb-9756-0195351926ed
+X-VSS-SenderDeploymentId: fc1cfc90-fc40-edcb-6d0f-3b1380ee7b68
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+
+[2024-06-07 04:22:50Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_rsaparams
+[2024-06-07 04:22:50Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\.credentials_rsaparams
+[2024-06-07 04:22:51Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-06-07 04:22:51Z INFO MessageListener] Session created.
+[2024-06-07 04:22:51Z INFO Terminal] WRITE LINE: Current runner version: '2.294.0'
+[2024-06-07 04:22:51Z INFO Terminal] WRITE LINE: 2024-06-07 04:22:51Z: Listening for Jobs
+[2024-06-07 04:22:51Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2024-06-07 04:22:52Z INFO MessageListener] Message '1' received from session 'b5d9e3b8-73bc-49fb-9be1-6eced3e8a665'.
+[2024-06-07 04:22:52Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:52Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:52Z INFO HostContext] Well known directory 'Work': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo'
+[2024-06-07 04:22:52Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:22:52Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:22:52Z INFO HostContext] Well known directory 'Work': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo'
+[2024-06-07 04:22:52Z INFO SelfUpdater] Cloning dotnet runtime to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\__dotnet_runtime__
+[2024-06-07 04:22:52Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:23:00Z INFO SelfUpdater] Successfully cloned dotnet runtime to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\__dotnet_runtime__. Total files: 222
+[2024-06-07 04:23:00Z INFO SelfUpdater] Cloning externals to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\__externals__
+[2024-06-07 04:23:00Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:23:00Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:23:00Z INFO HostContext] Well known directory 'Externals': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\externals'
+[2024-06-07 04:23:07Z INFO SelfUpdater] Successfully cloned externals to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\__externals__.
+[2024-06-07 04:23:07Z INFO SelfUpdater] Waiting for 2 tasks to complete.
+[2024-06-07 04:23:07Z INFO SelfUpdater] Externals clone finished.
+[2024-06-07 04:23:07Z INFO SelfUpdater] Calculating hash for D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\__externals__
+[2024-06-07 04:23:07Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:23:07Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:23:07Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:23:07Z INFO HostContext] Well known directory 'Externals': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\externals'
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper] Starting process:
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   File name: 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\externals\node16\bin\node.exe'
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   Arguments: '"D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin\hashFiles"'
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   Working directory: 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\__externals__'
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2024-06-07 04:23:07Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2024-06-07 04:23:11Z INFO ProcessInvokerWrapper] Process started with process id 32216, waiting for process exit.
+[2024-06-07 04:23:11Z INFO Runner] Refresh message received, kick-off selfupdate background process.
+[2024-06-07 04:23:11Z INFO SelfUpdater] Version '2.317.0' of 'agent' package available in server.
+[2024-06-07 04:23:11Z INFO SelfUpdater] Current running runner version is 2.294.0
+[2024-06-07 04:23:11Z INFO SelfUpdater] An update is available.
+[2024-06-07 04:23:11Z INFO Terminal] WRITE LINE: Runner update in progress, do not shutdown runner.
+[2024-06-07 04:23:11Z INFO SelfUpdater] CloneDotnetRuntimeTime: 7802ms
+[2024-06-07 04:23:11Z INFO SelfUpdater] CloneExternalsTime: 6786ms
+[2024-06-07 04:23:11Z INFO SelfUpdater] RunnerPlatform: win-x64
+[2024-06-07 04:23:12Z INFO Terminal] WRITE LINE: Downloading 2.317.0 runner
+[2024-06-07 04:23:12Z INFO ProcessInvokerWrapper] Kill entire process tree since both cancel and terminate signal has been ignored by the target process.
+[2024-06-07 04:23:12Z INFO ProcessInvokerWrapper] Scan all processes to find relationship between all processes.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] Find all child processes of process '32216'.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] Need kill all child processes trees before kill process '32216'.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] Child process '27500' needs be killed first.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] Find all child processes of process '27500'.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] Kill process '27500'.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] Kill process '32216'.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] Process Cancellation finished.
+[2024-06-07 04:23:13Z INFO ProcessInvokerWrapper] Finished process 32216 with exit code -1, and elapsed time 00:00:05.7450163.
+[2024-06-07 04:23:13Z ERR  SelfUpdater] Fail to hash externals content: System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at GitHub.Runner.Sdk.ProcessInvoker.ExecuteAsync(String workingDirectory, String fileName, String arguments, IDictionary`2 environment, Boolean requireExitCodeZero, Encoding outputEncoding, Boolean killProcessOnCancel, Channel`1 redirectStandardIn, Boolean inheritConsoleHandler, Boolean keepStandardInOpen, Boolean highPriorityProcess, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.ProcessInvokerWrapper.ExecuteAsync(String workingDirectory, String fileName, String arguments, IDictionary`2 environment, Boolean requireExitCodeZero, Encoding outputEncoding, Boolean killProcessOnCancel, Channel`1 redirectStandardIn, Boolean inheritConsoleHandler, Boolean keepStandardInOpen, Boolean highPriorityProcess, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.SelfUpdater.HashFiles(String fileFolder, CancellationToken token)
+   at GitHub.Runner.Listener.SelfUpdater.CloneAndCalculateAssetsHash(String dotnetRuntimeCloneDirectory, String externalsCloneDirectory, CancellationToken token)
+[2024-06-07 04:23:13Z INFO SelfUpdater] Still waiting for 1 tasks to complete.
+[2024-06-07 04:23:13Z INFO SelfUpdater] Waiting for 1 tasks to complete.
+[2024-06-07 04:23:13Z INFO SelfUpdater] Dotnet runtime clone finished.
+[2024-06-07 04:23:13Z ERR  SelfUpdater] Skip compute hash since clone dotnet runtime failed/cancelled.
+[2024-06-07 04:23:13Z INFO SelfUpdater] Still waiting for 0 tasks to complete.
+[2024-06-07 04:23:13Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:23:13Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:23:13Z INFO HostContext] Well known directory 'Work': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo'
+[2024-06-07 04:23:13Z INFO SelfUpdater] Attempt 1: save latest runner into D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update\runner1.zip.
+[2024-06-07 04:23:13Z INFO SelfUpdater] Download runner: begin download
+[2024-06-07 04:23:13Z INFO SelfUpdater] Downloading https://github.com/actions/runner/releases/download/v2.317.0/actions-runner-win-x64-2.317.0.zip
+[2024-06-07 04:24:38Z INFO SelfUpdater] Download runner: finished download
+[2024-06-07 04:24:41Z INFO SelfUpdater] Validated Runner Hash matches D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update\runner1.zip : a74dcd1612476eaf4b11c15b3db5a43a4f459c1d3c1807f8148aeb9530d69826
+[2024-06-07 04:25:06Z INFO SelfUpdater] Finished getting latest runner package at: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update.
+[2024-06-07 04:25:06Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:06Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:06Z INFO SelfUpdater] Copy D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update\bin to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin.2.317.0.
+[2024-06-07 04:25:11Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:11Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:11Z INFO SelfUpdater] Copy D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update\externals to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\externals.2.317.0.
+[2024-06-07 04:25:15Z INFO SelfUpdater] Copy any remaining .sh/.cmd files into runner root.
+[2024-06-07 04:25:15Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:15Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:15Z INFO SelfUpdater] Copy D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update\config.cmd to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\config.cmd
+[2024-06-07 04:25:15Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:15Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:15Z INFO SelfUpdater] Copy D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update\run-helper.cmd.template to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\run-helper.cmd.template
+[2024-06-07 04:25:15Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:15Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:15Z INFO SelfUpdater] Copy D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update\run-helper.sh.template to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\run-helper.sh.template
+[2024-06-07 04:25:15Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:15Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:15Z INFO SelfUpdater] Copy D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update\run.cmd to D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\run.cmd
+[2024-06-07 04:25:15Z INFO SelfUpdater] Download latest runner and unzip into runner root.
+[2024-06-07 04:25:15Z INFO Terminal] WRITE LINE: Waiting for current job finish running.
+[2024-06-07 04:25:15Z INFO SelfUpdater] DownloadUrl: https://github.com/actions/runner/releases/download/v2.317.0/actions-runner-win-x64-2.317.0.zip
+[2024-06-07 04:25:15Z INFO SelfUpdater] RuntimeTrimmed: False
+[2024-06-07 04:25:15Z INFO SelfUpdater] ExternalsTrimmed: False
+[2024-06-07 04:25:15Z INFO SelfUpdater] PackageDownloadTime: 84764ms
+[2024-06-07 04:25:15Z INFO SelfUpdater] Attempts: 1
+[2024-06-07 04:25:15Z INFO SelfUpdater] PackageSize: 84MB
+[2024-06-07 04:25:15Z INFO SelfUpdater] ValidateHashTime: 2973ms
+[2024-06-07 04:25:15Z INFO SelfUpdater] PackageExtractTime: 24867ms
+[2024-06-07 04:25:15Z INFO SelfUpdater] CopyRunnerToRootTime: 9835ms
+[2024-06-07 04:25:16Z INFO SelfUpdater] All running job has exited.
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:16Z INFO SelfUpdater] Delete old version runner backup.
+[2024-06-07 04:25:16Z INFO Terminal] WRITE LINE: Generate and execute update script.
+[2024-06-07 04:25:16Z INFO SelfUpdater] DeleteRunnerBackupTime: 29ms
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Diag': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\_diag'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Bin': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Root': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner'
+[2024-06-07 04:25:16Z INFO HostContext] Well known directory 'Work': 'D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo'
+[2024-06-07 04:25:16Z INFO SelfUpdater] Generate update script into: D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\Calendario_Api_Desarrollo\_update.cmd
+[2024-06-07 04:25:16Z INFO SelfUpdater] Which: 'cmd.exe'
+[2024-06-07 04:25:16Z INFO SelfUpdater] Location: 'C:\Windows\system32\cmd.exe'
+[2024-06-07 04:25:37Z INFO SelfUpdater] Update script start running
+[2024-06-07 04:25:37Z INFO Terminal] WRITE LINE: Runner will exit shortly for update, should be back online within 10 seconds.
+[2024-06-07 04:25:37Z INFO SelfUpdater] TotalUpdateTime: 164664ms
+[2024-06-07 04:25:37Z INFO Terminal] WRITE LINE: Runner update process finished.
+[2024-06-07 04:25:37Z INFO Runner] Auto update task finished at backend, an runner update is ready to apply exit the current runner instance.
+[2024-06-07 04:25:37Z INFO Runner] Stop message queue looping.
+[2024-06-07 04:25:37Z WARN GitHubActionsService] GET request to https://pipelinesghubeus7.actions.githubusercontent.com/FXHz7qQQWKZm0cUnal2epXYLKsGnCgESa6VA91t73aTSqlri0X/_apis/distributedtask/pools/1/messages?sessionId=b5d9e3b8-73bc-49fb-9be1-6eced3e8a665&lastMessageId=1 has been cancelled.
+[2024-06-07 04:25:37Z INFO MessageListener] Get next message has been cancelled.
+[2024-06-07 04:25:37Z INFO Runner] Ignore any exception after cancel message loop. System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación..
+ ---> System.Net.Sockets.SocketException (995): La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+   at GitHub.Runner.Listener.Runner.RunAsync(RunnerSettings settings, Boolean runOnce)
+[2024-06-07 04:25:37Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2024-06-07 04:25:38Z INFO Listener] Runner execution has finished with return code 3

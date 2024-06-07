@@ -1,0 +1,20 @@
+[jue. 06/06/2024 23:25:37,49] --------whoami-------- 
+El sistema no puede ejecutar el programa especificado.
+[jue. 06/06/2024 23:25:37,70] --------whoami-------- 
+[jue. 06/06/2024 23:25:37,73] Waiting for Runner.Listener.exe (3924) to complete 
+Runner.Listener.exe           3924 Console                    9    61.272 KB
+[jue. 06/06/2024 23:25:39,56] Process 3924 still running, check again after 1 second. 
+[jue. 06/06/2024 23:25:41,81] Process 3924 finished running 
+[jue. 06/06/2024 23:25:41,82] Sleep 1 more second to make sure process exited 
+[jue. 06/06/2024 23:25:43,03] Re-organize folders 
+[jue. 06/06/2024 23:25:43,17] move "D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin" "D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin.2.294.0" 
+Se ha(n) movido         1 directorio(s).
+[jue. 06/06/2024 23:25:43,32] move "D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\externals" "D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\externals.2.294.0" 
+Se ha(n) movido         1 directorio(s).
+[jue. 06/06/2024 23:25:43,49] Create junction bin folder 
+Unión creada para D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin <<===>> D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\bin.2.317.0
+[jue. 06/06/2024 23:25:43,52] Create junction externals folder 
+Unión creada para D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\externals <<===>> D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\externals.2.317.0
+[jue. 06/06/2024 23:25:43,55] Update succeed 
+[jue. 06/06/2024 23:25:43,55] update.finished file creation succeed 
+[jue. 06/06/2024 23:25:43,56] Rename "D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\_diag\SelfUpdate-20240607-042516.log" to be "D:\ESTUDIO\semestre 1-2024\Software empresarial\unidad 3\entrega 4 -Api_Calendario\Calendario_Api\actions-runner\_diag\SelfUpdate-20240607-042516.log.succeed" 
